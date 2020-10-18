@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm [Fabian](https://github.com/FabianDean)!
+- 🔭 I’m currently working on **a React-based web app with some friends and an iOS app as a personal project**
+- 📚 I’m currently learning **Swift, SwiftUI, and GraphQL**
+- ✨ I've worked extensively with **React** for web and **Flutter** for mobile
+- 🤝 I'd love to collaborate on any projects you might have
+- 💬 Ask me about **anything**
 
-<!--
-**FabianDean/FabianDean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianDean&show_icons=true)
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Optional Visitors badge: 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=FabianDean.FabianDean)
 -->
+
+[LinkedIn](https://www.linkedin.com/in/FabianDean/) <a href="https://www.linkedin.com/in/FabianDean/">
+  <img align="left" alt="Fabian's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br>
+<br>
+⭐️ From [FabianDean](https://github.com/FabianDean/FabianDean) 
