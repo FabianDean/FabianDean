@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm [Fabian](https://github.com/FabianDean)!
-- 🔭 I’m currently working on **a React-based web app with some friends and an iOS app as a personal project**
-- 📚 I’m currently learning **Swift, SwiftUI, and GraphQL**
-- ✨ I've worked extensively with **React** for web and **Flutter** for mobile
-- 🤝 I'd love to collaborate on any projects you might have
-- 💬 Ask me about **anything**
+- ✨ I've worked extensively and professionally with **React** for web and **React Native** for mobile
 
 ![Fabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianDean&show_icons=true)
 <br />
