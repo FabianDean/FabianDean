@@ -14,10 +14,3 @@
 <br>
 <br>
 ⭐️ From [FabianDean](https://github.com/FabianDean/FabianDean) 
-
-## GitHub Pages deployment
-
-This repository now includes a GitHub Actions workflow that deploys the `above_all_roofing/` directory to GitHub Pages whenever that project is updated.
-
-- Workflow: `.github/workflows/deploy-above-all-roofing-pages.yml`
-- Site root: `above_all_roofing/`
