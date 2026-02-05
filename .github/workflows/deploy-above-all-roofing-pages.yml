@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - master
       - work
     paths:
       - "above_all_roofing/**"
